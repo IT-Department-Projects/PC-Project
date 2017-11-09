@@ -204,8 +204,8 @@ def implement(infile, k, warholize=False):
     x.generate_image_2(warholize=warholize)
 
 
-FILE_IN = 'lena.jpeg'
-K=40
+FILE_IN = 'lena.png'
+K=90
 
 
 if __name__ == "__main__":
